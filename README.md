@@ -1,1 +1,3 @@
-# struktur_data_assignment_modul-6-stack
+NAMA:PRIESTY AMEILIANA MAULIDAH 
+KELAS:IF-11-E
+NIM:2311102175
